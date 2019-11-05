@@ -1,0 +1,2 @@
+PUPPETEER_LAUNCHER_ARGS=--no-sandbox   # Add more arguments by use space separated.
+PUPPETEER_CHROMIUM_REVISION=686378     # Chromium revision number can be found in 'node_modules/puppeteer/.local-chromium/' eg: linux-686378 => revision number is 686378
