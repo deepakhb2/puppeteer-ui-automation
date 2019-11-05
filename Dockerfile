@@ -1,4 +1,4 @@
-FROM deepakhb2/puppeteer:version-1.0.1 
+FROM deepakhb2/puppeteer:1.0.2
 
 WORKDIR /code
 ADD . /code
