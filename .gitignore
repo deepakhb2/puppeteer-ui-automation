@@ -62,3 +62,5 @@ typings/
 
 # mvim swp files
 *.swp
+
+.dockerignore
